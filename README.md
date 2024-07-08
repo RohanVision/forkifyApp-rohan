@@ -7,7 +7,6 @@ Table of Contents
 - Features
 - Installation
 - Usage
-- Project Structure
 - API
 
 Features
@@ -16,31 +15,6 @@ Features
 - Bookmarks: Bookmark favorite recipes for quick access.
 - Add Recipes: Users can add their own recipes to the application.
 - Responsive Design: The application is fully responsive and works on all devices.
-
-forkify/
-├── src/
-│   ├── img/
-│   ├── js/
-│   │   ├── model.js
-│   │   ├── controller.js
-│   │   ├── helpers.js
-│   │   ├── config.js
-│   │   └── views/
-│   │       ├── recipeView.js
-│   │       ├── searchView.js
-│   │       ├── resultsView.js
-│   │       ├── paginationView.js
-│   │       ├── bookmarksView.js
-│   │       └── addRecipeView.js
-│   ├── sass/
-│   │   └── main.scss
-│   └── index.html
-├── .babelrc
-├── .gitignore
-├── package.json
-├── README.md
-└── webpack.config.js
-
 
 API
 The application uses the Forkify API for fetching recipes. The key configurations are:

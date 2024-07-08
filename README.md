@@ -1,7 +1,9 @@
 # forkify Project
 
-Forkify
+Forkify 
 Forkify is a web application (learning project) that allows users to search for recipes, view detailed recipe information, bookmark favorite recipes, and even add their own recipes. This application is built using modern JavaScript, HTML5, and CSS3, leveraging tools like Webpack and Babel for an efficient development process.
+
+Demo Link - https://rohan-forkifyapp.netlify.app/
 
 Table of Contents
 - Features
